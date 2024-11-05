@@ -1,4 +1,4 @@
-# Breast Cancer Prediction Project
+# Breast Cancer Prediction
 
 This project aims to predict the likelihood of breast cancer using various machine learning algorithms. The dataset used for training and testing the models is the Breast Cancer Wisconsin (Diagnostic) Data Set from the UCI Machine Learning Repository, along with additional data from government health datasets, including the National Cancer Institute (NCI) Surveillance, Epidemiology, and End Results (SEER) database.
 
